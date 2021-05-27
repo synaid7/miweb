@@ -1,3 +1,0 @@
-#Titulo
-
-Documentacion del proyecto
